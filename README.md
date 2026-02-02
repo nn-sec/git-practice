@@ -1,3 +1,4 @@
 # git-practice
 ローカル練習用
-VSコードでテスト中(main)
+<rebase-practiceブランチで変更(rebase コンフリクト用)
+rebase用
